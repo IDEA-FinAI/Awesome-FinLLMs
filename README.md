@@ -1,5 +1,5 @@
 # Awesome-FinLLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+## Papers 
 |  Date  | Name |      Author       |    Institute    | Links  | Paper
 | :-----: | :-----: | :------------------: | :--------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | 2023-05~2024-03 | Xuanyuan 1&2 <br/>轩辕 | Zhang X, Yang Q.  | Duxiaoman Co., China<br/>(度小满) |[![arXiv](https://img.shields.io/badge/Arxiv-2305.12002-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2305.12002)[![github](https://img.shields.io/github/stars/Duxiaoman-DI/XuanYuan.svg?style=social)](https://github.com/Duxiaoman-DI/XuanYuan)[![huggingface](https://img.shields.io/badge/🤗-Model%206B~70B-yellow.svg)](https://huggingface.co/Duxiaoman-DI/XuanYuan2-70B-Chat) |XuanYuan 2.0: A Large Chinese Financial Chat Model with Hundreds of Billions Parameters |
@@ -11,7 +11,14 @@
 | 2023-06 | FinGPT | Yang H, Liu X Y, Wang C D. | AI4Finance-Foundation | [![arXiv](https://img.shields.io/badge/Arxiv-2306.06031-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2306.06031)[![github](https://img.shields.io/github/stars/AI4Finance-Foundation/FinGPT.svg?style=social)](https://github.com/AI4Finance-Foundation/FinGPT)[![huggingface](https://img.shields.io/badge/🤗-Model%207B%20lora-yellow.svg)](https://huggingface.co/FinGPT/fingpt-mt_llama2-7b_lora) | Fingpt: Open-source financial large language models |
 | 2024 | IDEA-FinLLM | coming soon | coming soon | coming soon | coming soon |
 
+## Models
+coming soon
 
+## Datasets
+coming soon
+
+## Benchmarks
+coming soon
 
 
 
