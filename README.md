@@ -19,7 +19,8 @@ coming soon
 ## Agent
 |  Date  | Name |      Author       |    Institute    | Links  | Paper
 | :-----: | :-----: | :------------------: | :--------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| 2024-5 | FinRobot | Hongyang (Bruce) Yang, et al. | AI4Finance | [![arXiv](https://img.shields.io/badge/Arxiv-2405.14767-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14767)[![github](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot.svg?style=social)](https://github.com/AI4Finance-Foundation/FinRobot)![huggingface](https://img.shields.io/badge/🤗-None-yellow.svg) | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |
+| 2023-11 | FinMEM | Yangyang Yu, Haohang Li, et al. | Stevens Institute of Technology | [![arXiv](https://img.shields.io/badge/Arxiv-2311.13743-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2311.13743)[![github](https://img.shields.io/github/stars/pipiku915/FinMem-LLM-StockTrading.svg?style=social)](https://github.com/pipiku915/FinMem-LLM-StockTrading)![huggingface](https://img.shields.io/badge/🤗-None-yellow.svg) | FINMEM: A PERFORMANCE-ENHANCED LLM TRADING AGENT WITH LAYERED MEMORY AND CHARACTER DESIGN |
+| 2024-05 | FinRobot | Hongyang (Bruce) Yang, et al. | AI4Finance | [![arXiv](https://img.shields.io/badge/Arxiv-2405.14767-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14767)[![github](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot.svg?style=social)](https://github.com/AI4Finance-Foundation/FinRobot)![huggingface](https://img.shields.io/badge/🤗-None-yellow.svg) | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |
 
 ## Datasets
 coming soon
