@@ -17,7 +17,9 @@
 coming soon
 
 ## Agent
-coming soon
+|  Date  | Name |      Author       |    Institute    | Links  | Paper
+| :-----: | :-----: | :------------------: | :--------------: | :--------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| 2024-5 | FinRobot | Hongyang (Bruce) Yang, et al. | AI4Finance | [![arXiv](https://img.shields.io/badge/Arxiv-2405.14767-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2405.14767)[![github](https://img.shields.io/github/stars/AI4Finance-Foundation/FinRobot.svg?style=social)](https://github.com/AI4Finance-Foundation/FinRobot)![huggingface](https://img.shields.io/badge/🤗-None-yellow.svg) | FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models |
 
 ## Datasets
 coming soon
